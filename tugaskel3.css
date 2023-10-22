@@ -16,12 +16,12 @@
 }
 
 .media img{
-    height: 360pxpx;
+    height: 360px;
     width: 480px;
     /* untuk tengahin gambar */
     display: block;
     margin: 0 auto;
-    /* -------------------- */
+
 }
 .media p{
     text-align: center;
@@ -60,7 +60,7 @@ h2{
 .content p, .content2 p, .content3 p, .content4 p, .content5 p {
     font-size: 18px;
 }
-
+/* akhiran?request konten? */
 #form{
     padding: 20px;
     background-color: bisque;
