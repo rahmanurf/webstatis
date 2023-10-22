@@ -57,13 +57,13 @@ h2{
     background-color: blanchedalmond;
 }
 
-.content p, .content2 p, .content3 p, .content4 p, .content5 p{
-    font-size: 18px;
-}
-
-.content img, .content2 img, .content3 img, .content4 img, .content5 img{
+img{
     height: 360px;
     width: 480px;
+}
+
+.content p, .content2 p, .content3 p, .content4 p, .content5 p{
+    font-size: 18px;
 }
 
 /* akhiran?request konten? */
