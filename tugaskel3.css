@@ -21,8 +21,8 @@
     /* untuk tengahin gambar */
     display: block;
     margin: 0 auto;
-
 }
+
 .media p{
     text-align: center;
     font-size: 18px;
@@ -57,9 +57,15 @@ h2{
     background-color: blanchedalmond;
 }
 
-.content p, .content2 p, .content3 p, .content4 p, .content5 p {
+.content p, .content2 p, .content3 p, .content4 p, .content5 p{
     font-size: 18px;
 }
+
+.content img, .content2 img, .content3 img, .content4 img, .content5 img{
+    height: 360px;
+    width: 480px;
+}
+
 /* akhiran?request konten? */
 #form{
     padding: 20px;
