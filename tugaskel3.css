@@ -57,11 +57,6 @@ h2{
     background-color: blanchedalmond;
 }
 
-.content img{
-    height: 240px;
-    width: 360px;
-}
-
 .content p, .content2 p, .content3 p, .content4 p, .content5 p{
     font-size: 18px;
 }
