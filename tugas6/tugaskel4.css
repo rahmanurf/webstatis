@@ -1,0 +1,143 @@
+/* bagian atas dulu */
+body{
+    font: 18px/28px Verdana, sans-serif;
+    background-image: url(img/gambar1.jpg);
+    color: #333;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container{
+    width: 800px;
+    margin: auto;
+    background-color: #fff;
+    outline-style: solid;
+    outline-color:black;
+    outline-width: 5px
+}
+
+.header{
+    padding: 15px;
+}
+
+.header ul li{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.container .header ul{
+    margin-left: -40px;
+}
+
+.header a{
+    text-decoration: none;
+    color: green;
+    padding: 10px;
+}
+
+.header a:hover{
+    background-color: black;
+    color: beige;
+}
+
+.hero{
+    height: 420px;
+    background-image: url(https://assets.jalantikus.com/assets/cache/0/400/tips/2021/02/11/film-perang-terbaik-2020-7e326.jpg.webp);
+    background-size: cover;
+    background-position: 0 0;
+    outline-style: solid;
+    outline-color: #2c3e50;
+    outline-width: 3px;
+}
+
+.mulai{
+    padding: 15px;
+}
+
+.mulai .saya{
+    margin-top: -15px;
+    font-size: 16px;
+}
+
+.mulai p{
+    font-size: 17px;
+    text-align: justify;
+}
+
+.satu{
+    padding: 15px;
+    margin-top: -40px;
+}
+
+.satu img{
+    height: 200px;
+}
+
+.satu p{
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+.dua{
+    padding: 15px;
+    margin-top: -50px;
+}
+
+.dua img{
+    height: 200px;
+}
+
+.dua p{
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+.tiga{
+    padding: 15px;
+    margin-top: -50px;
+}
+
+.tiga img{
+    height: 200px;
+}
+
+.tiga p{
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+/*CSS tabel */
+.tabel h2{
+    padding: 15px;
+    margin-top: -20px;
+  }
+  
+.jenis{
+    border: 2pxx solid black;
+    border-collapse: collapse;
+    width: 780px;
+    height: 100px;
+    text-align: justify;
+    margin-top: -20px;
+    margin-left: 10px;
+}
+
+th{
+    text-align: center;
+}
+
+td{
+    text-align: justify;
+    padding: 16px;
+    font-size: 15px;
+}
+
+/* footer */
+.footer {
+    background-color: black;
+    text-align: center;
+    font-size: 12px;
+    color: antiquewhite;
